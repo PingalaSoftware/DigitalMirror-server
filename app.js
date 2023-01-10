@@ -31,8 +31,8 @@ app.get("/", (req, res, next) => {
     "..",
     "..",
     "media",
-    "aaron25",
-    "MALL"
+    "pingala",
+    "SKM3"
   );
   // res.send(filePath);
 
@@ -62,8 +62,8 @@ app.get("/:filename", (req, res, next) => {
     "..",
     "..",
     "media",
-    "aaron25",
-    "MALL"
+    "pingala",
+    "SKM3"
   );
   // res.send(filePath);
 
